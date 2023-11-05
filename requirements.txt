@@ -17,8 +17,10 @@ opencv-contrib-python
 matplotlib
 Pillow
 pytest
-autorootcwd
 sh
 ipykernel
 ipywidgets
-
+tensorboard
+tensorboardX
+pytest
+sh
